@@ -1,34 +1,10 @@
-var json = {
-	"id": "string",
-	"contraindicationReason": "string",
-	"formOfRecruitment": "string",
-	"professionalProfileDescription": "string",
-	"areaOfInterestDescription1": "string",
-	"areaOfInterestDescription2": "string",
-	"hierarchyLevelDescription": "string",
-	"professionalSkillsResumeDescription": "string",
-	"employee1": "string",
-	"personalEmail": "string",
-	"maritalState": "string",
-	"complement": "string",
-	"letterModel19": "string",
-	"rne": "string",
-	"immigrationDecree": "string",
-	"visaType": "string",
-	"passportNumber": "string",
-	"nativeCountry": "string",
-	"accessibilityFeaturesForJobLocal": "string",
-	"militaryDivision": "string",
-	"militaryCertificateEmitterAgency": "string",
-	"militaryRegion": "string",
-	"militarySituation": "string",
-	"electoralCardEmitterState": "string",
-	"bloodType": "string",
-	"image": "string",
-	"naturalnessCode": "string",
-	"driversLicenseEmitterAgency": "string",
-	"rneEmitterAgency": "string",
-	"deathCertificateNumber": "string",
-	"naturalisationGatehouse": "string",
-	"brazilConditionClassification": "string"
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "Alan Chris Jaques"
+    }
+  ]
 }
